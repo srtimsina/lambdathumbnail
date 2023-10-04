@@ -1,4 +1,5 @@
-# lambdathumbnail
+# Lambda function to create an image thumbnail of an image whenever image is uploaded to s3 bucket(trigger) and save it in another bucket.
+
 To create package python function
 ``` bash
 virtualenv labvenv
