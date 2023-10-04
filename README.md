@@ -1,6 +1,6 @@
 # lambdathumbnail
 To create package python function
-bash ```
+``` bash
 virtualenv labvenv
 source labvenv/bin/activate
 pip install Pillow
